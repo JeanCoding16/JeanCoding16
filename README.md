@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Aqua Club**
 - 🌱 I’m currently learning **Frameworks, Libraries, API and more**
-- 👨‍💻 All of my projects are available at [aqua-jean-s.de](aqua-jean-s.de)
+- 👨‍💻 All of my projects are available at **aqua-jean-s.de**
 - 💬 Ask me about **html, css, js, discord.js, bootstrap, tailwindcss**
 - 📫 How to reach me **info@aqua-jean-s.de**
 - ⚡ Fun fact **Don't learn, work your way to your goal and overcome your lack of knowledge.**
