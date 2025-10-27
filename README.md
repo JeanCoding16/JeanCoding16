@@ -2,8 +2,8 @@
 My name is **Jean** and I come from **Germany**. In my free time I like to build random shit and I would be happy if you like it. 😅
 
 ## 📍 About
-🔹 Jean (or Jean S.)
-🔹 he/him
+🔹 Jean (or Jean S.)</br>
+🔹 he/him</br>
 🔹 Germany
 
 ## 🌐 Socials:
