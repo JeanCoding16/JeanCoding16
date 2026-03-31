@@ -11,7 +11,7 @@ I'm a **19-year-old developer** from **Germany** 🇩🇪. I love building "rand
 * 🌍 **Location:** Germany
 
 ## 🌐 Socials
-[![Discord Banner](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dvserver.link/aqua-universe)
+[![Discord Banner](https://discord.com/api/guilds/1341808121118724241/widget.png?style=banner2)](https://dvserver.link/aqua-universe)
 
 ---
 
