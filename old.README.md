@@ -4,7 +4,6 @@ My name is **Jean** and I come from **Germany**. In my free time I like to build
 ## 📍 About
 🔹 Jean (or Jean S.)</br>
 🔹 19 Years old</br>
-🔹 he/him</br>
 🔹 Germany
 
 ## 🌐 Socials:
