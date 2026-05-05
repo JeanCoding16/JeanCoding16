@@ -7,7 +7,6 @@ I'm a **19-year-old developer** from **Germany** 🇩🇪. I love building "rand
 ## 📍 About Me
 * 👤 **Name:** Jean (or Jean S.)
 * 🎂 **Age:** 19 Years old
-* ⚧️ **Pronouns:** he/him
 * 🌍 **Location:** Germany
 
 ## 🌐 Socials
