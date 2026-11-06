@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Jean
 
-I'm a **20-year-old developer** from **Germany** 🇩🇪. I love building "random things" and exploring modern web technologies. Welcome to my digital workshop!
+a **20-year-old developer** from **Germany** 🇩🇪. I love building "random things" and exploring modern web technologies. Welcome to my digital workshop!
 
 ---
 
